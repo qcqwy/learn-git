@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\c语言代码\Graphical_interface_leran\Graphical_interface_leran\game.h(1,1): warning C4828: 文件包含在偏移 0x2b1 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Graphical_interface_leran.vcxproj -> D:\c语言代码\Graphical_interface_leran\x64\Debug\Graphical_interface_leran.exe
